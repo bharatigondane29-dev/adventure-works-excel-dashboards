@@ -1,1 +1,9 @@
+This project showcases interactive dashboards built using Power BI, Tableau, and SQL with the AdventureWorks dataset. 
+The goal is to transform raw business data into actionable insights for decision‑makers.
 
+🔑 Key Features
+Data Preparation with SQL: Complex joins, aggregations, and views created to support analytics.
+
+Power BI Dashboards: Dynamic slicers, page navigation, and KPI cards for sales, product, and customer insights.
+
+Tableau Visualizations: Interactive charts with parameter controls, forecasting, and trend analysis.
